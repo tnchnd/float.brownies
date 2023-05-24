@@ -1,0 +1,44 @@
+Uri: https://fonts.googleapis.com/css?display=swap&family=Dancing+Script:500,500italic|DM+Sans:400,400italic,500,500italic
+File Name: C:\Downloaded Web Sites\valbrownies.carrd.co\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/dancingscript/v24/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BAyo3Sup5.ttf
+File Name: C:\Downloaded Web Sites\valbrownies.carrd.co\s\dancingscript\v24\If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BAyo3Sup5-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v11/rP2Ap2ywxg089UriCZaw7ByWCXwW.ttf
+File Name: C:\Downloaded Web Sites\valbrownies.carrd.co\s\dmsans\v11\rP2Ap2ywxg089UriCZaw7ByWCXwW-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v11/rP2Cp2ywxg089UriAWCrCBimDg.ttf
+File Name: C:\Downloaded Web Sites\valbrownies.carrd.co\s\dmsans\v11\rP2Cp2ywxg089UriAWCrCBimDg-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v11/rP2Fp2ywxg089UriCZa4Hz-G.ttf
+File Name: C:\Downloaded Web Sites\valbrownies.carrd.co\s\dmsans\v11\rP2Fp2ywxg089UriCZa4Hz-G-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v11/rP2Hp2ywxg089UriCZOIGA.ttf
+File Name: C:\Downloaded Web Sites\valbrownies.carrd.co\s\dmsans\v11\rP2Hp2ywxg089UriCZOIGA-1.ttf
+Content Type: font/ttf
+
+Uri: https://valbrownies.carrd.co/
+File Name: C:\Downloaded Web Sites\valbrownies.carrd.co\index-1.htm
+Content Type: text/html
+
+Uri: https://valbrownies.carrd.co/assets/images/gallery04/0b91f6de.jpg?v=16b3f81d
+File Name: C:\Downloaded Web Sites\valbrownies.carrd.co\assets\images\gallery04\0b91f6de-1.jpg
+Content Type: image/jpeg
+
+Uri: https://valbrownies.carrd.co/assets/images/gallery04/128cb7b8.jpg?v=16b3f81d
+File Name: C:\Downloaded Web Sites\valbrownies.carrd.co\assets\images\gallery04\128cb7b8-1.jpg
+Content Type: image/jpeg
+
+Uri: https://valbrownies.carrd.co/assets/images/gallery06/62357e0f.jpg?v=16b3f81d
+File Name: C:\Downloaded Web Sites\valbrownies.carrd.co\assets\images\gallery06\62357e0f-1.jpg
+Content Type: image/jpeg
+
+Uri: https://valbrownies.carrd.co/assets/images/image04.jpg?v=16b3f81d
+File Name: C:\Downloaded Web Sites\valbrownies.carrd.co\assets\images\image04-1.jpg
+Content Type: image/jpeg
+
